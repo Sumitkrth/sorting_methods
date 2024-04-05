@@ -3,7 +3,7 @@ from quick_sort import quick
 from bubble_sort import bubble
 from insertion_sort import insertion
 from selection_sort import selection
-
+ 
 def binary_search(list, value):
     comparisons = 0
     left = 0
